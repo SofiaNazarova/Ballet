@@ -1,0 +1,7 @@
+npm ERR! code 1
+npm ERR! path C:\Users\arieh\OneDrive\Desktop\fed-entry-level-exam
+npm ERR! command failed
+npm ERR! command C:\WINDOWS\system32\cmd.exe /d /s /c npm run bootstrap
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\Users\arieh\AppData\Local\npm-cache\_logs\2022-04-17T15_24_07_873Z-debug-0.log```
